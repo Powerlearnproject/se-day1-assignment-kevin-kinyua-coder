@@ -9,8 +9,6 @@ Explain what software engineering is and discuss its importance in the technolog
  create reliable software
  it helps manage cpmplexity
  it helps ensure quality
-
-
 Identify and describe at least three key milestones in the evolution of software engineering.
 the development of first programming languages made it easier for human to read and understand code
 introduction of structured progamming made it easier to create complex program by reaking them into smaller maneageable pieces
@@ -22,9 +20,6 @@ List and briefly explain the phases of the Software Development Life Cycle.
 design - building the framework. 
 coding - converting software design into tangible code.
  testing - examine the software for any bugs and glitches
-
-
-
 Compare and contrast the Waterfall and Agile methodologies. Provide examples of scenarios where each would be appropriate.
 waterfall method is Sequential %& structured while agile methodology is	Iterative & flexible
 Waterfall is ideal for projects with well-defined requirements and minimal expected changes
@@ -43,8 +38,6 @@ Integrated Development Environments (IDEs) and Version Control Systems (VCS) are
  They significantly enhance productivity, collaboration, and code quality
  IDE - VS code
  VCS - Git hub
-
-
 Explain the different types of testing (unit, integration, system, and acceptance) and their importance in software quality assurance.
 Unit Testing
 Tests individual components (functions, methods, or classes) in isolation.
