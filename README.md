@@ -44,17 +44,39 @@ Integrated Development Environments (IDEs) and Version Control Systems (VCS) are
  IDE - VS code
  VCS - Git hub
 
-Integrated Development Environments (IDEs) and Version Control Systems (VCS) are indispensable tools in modern software development.
-
- They significantly enhance productivity, collaboration, and code quality
 
 Explain the different types of testing (unit, integration, system, and acceptance) and their importance in software quality assurance.
-
-
+Unit Testing
+Tests individual components (functions, methods, or classes) in isolation.
+Typically automated and written by developers.
+Importance:
+ Catches bugs early in development.
+Ensures code correctness and reliability.
+Integration Testing
+Tests interactions between multiple components, modules, or services.
+Ensures that different parts of the system work together correctly.
+ Identifies issues in data flow and communication between modules.
+ Prevents failures in connected systems (e.g., API calls, database interactions).
+Reduces integration risks when combining multiple parts.
+System Testing
+Tests the entire application as a whole, including all integrated components.
+Conducted in an environment similar to production.
+Importance:
+Validates that the complete system meets requirements.
+Identifies defects that only appear in full-system scenarios.
+Ensures software stability before release.
+Acceptance Testing
+Ensures the software meets business and user requirements.
+Conducted by end-users or stakeholders before release.
+Importance:
+Confirms that the software is ready for production.
+Reduces post-launch failures by validating real-world use cases.
+Ensures customer satisfaction and usability.
 #Part 2: Introduction to AI and Prompt Engineering
 
 
 Define prompt engineering and discuss its importance in interacting with AI models.
-
+prompt engineering  is the process where you guide generative AI solutions to generate desired outputs
 
 Provide an example of a vague prompt and then improve it by making it clear, specific, and concise. Explain why the improved prompt is more effective.
+Describe the strengths and weaknesses of different football formations like 4-4-2, 4-3-3, and 3-5-2.
